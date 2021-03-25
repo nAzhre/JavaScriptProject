@@ -1,0 +1,33 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    color: #344fa5;
+    background-color: #ddd;
+}
+.title{
+    text-align: center;
+    color: #21d86e;
+}
+.justify{
+    text-align: justify;
+}
+ul{
+    list-style-type: square;
+    list-style-position: outside;
+    color: #15e9e98e;
+}
+.post{
+    widows: 700px;
+    height: 400px;
+    padding: 15px 25px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid rgba(1, 44, 238, 0.575);
+    
+}
+.post-title{
+    margin: 0 0 20px 0;
+}
+.post-text p{
+    margin: 0 0 10px 0;
+}
